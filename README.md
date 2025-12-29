@@ -20,12 +20,12 @@ Testimonial Grid section used CSS grids to work on this project. Please visit th
 👉 https://chandutelaga.github.io/testimonials-grid-section-main/
 
 🔹 **Project Name 2**  
-Short description  
-👉 https://github.com/username/project2
+A simple landing page.
+👉 [https://github.com/username/project2](https://chandutelaga.github.io/excursion/)
 
 🔹 **Project Name 3**  
-Short description  
-👉 https://github.com/username/project3
+A product review card. 
+👉 [https://github.com/username/project3](https://chandutelaga.github.io/PRODUCT-PREVIEW-CARD-COMPONENT-MAIN/)
 
 ---
 

@@ -16,15 +16,18 @@ I enjoy building projects, automating everyday tasks, and continuously improving
 Here are a few things I’ve worked on:
 
 🔹 **Project Name 1**  
-Testimonial Grid section used CSS grids to work on this project. Please visit the link below to take a look. 
+Testimonial Grid section used CSS grids to work on this project. Please visit the link below to take a look.
+
 👉 https://chandutelaga.github.io/testimonials-grid-section-main/
 
 🔹 **Project Name 2**  
 A simple landing page.
+
 👉 [https://github.com/username/project2](https://chandutelaga.github.io/excursion/)
 
 🔹 **Project Name 3**  
-A product review card. 
+A product review card.
+
 👉 [https://github.com/username/project3](https://chandutelaga.github.io/PRODUCT-PREVIEW-CARD-COMPONENT-MAIN/)
 
 ---

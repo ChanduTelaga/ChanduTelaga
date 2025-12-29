@@ -16,8 +16,8 @@ I enjoy building projects, automating everyday tasks, and continuously improving
 Here are a few things I’ve worked on:
 
 🔹 **Project Name 1**  
-Short description of what the project does  
-👉 https://github.com/username/project1
+Testimonial Grid section used CSS grids to work on this project. Please visit the link below to take a look. 
+👉 https://chandutelaga.github.io/testimonials-grid-section-main/
 
 🔹 **Project Name 2**  
 Short description  

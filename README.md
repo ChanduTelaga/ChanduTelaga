@@ -12,18 +12,18 @@
 ## 🧠 About Me
 
 - 🎓 Student exploring **Full-Stack Development** and **Cloud Technologies**
-- 🌱 Currently building: Frontend projects using **HTML, CSS, JavaScript**
+- 🌱 Currently building: Responsive projects using **HTML, CSS, JavaScript**
 - 🔭 Next up: Learning **React.js** and **Node.js** to build full-stack applications
 - 🐧 Linux user running projects on **Ubuntu VM** and exploring **Azure Cloud**
-- 💼 Working towards: Transitioning from **Infrastructure/Monitoring → Development** roles
-- 🎯 2026 Goal: Land my first developer role with a strong portfolio
+- 💼 Working towards: Transitioning from **Technical Support → Development** roles
+- 🎯 2027 Goal: Land my first developer role with a strong portfolio
 
 ---
 
 ## 🔥 What I'm Working On
 
-- 🎨 Building responsive frontend projects from **Frontend Mentor**
-- 🐧 Setting up development environment on **Linux VM**
+- 🎨 Building responsive frontend projects from **Frontend Mentor**, **FreeCodeCamp**
+- 🐧 Strenthning my **Linux** and **Cloud** skills
 - 💡 Planning: Personal portfolio website (coming soon!)
 
 ---
@@ -36,7 +36,7 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages & Frontend
+### 💻 Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -44,7 +44,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### ☁️ Cloud & Infrastructure
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Azure Cloud](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ### 🔧 Tools & Platforms
@@ -53,10 +53,10 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ### 🎯 Currently Learning
-- **Frontend Framework:** React.js (planned for 2025)
+- **Frontend Framework:** React js
 - **Backend:** Node.js, Express
 - **Database:** SQL, MongoDB
-- **DevOps:** Docker basics, CI/CD fundamentals
+- **DevOps fundamentals:** Docker basics, CI/CD fundamentals
 
 ---
 
@@ -75,11 +75,10 @@
 
 ## 🎯 Beyond Code
 
-- 🎮 Enjoy solving coding challenges when I have time
-- 📖 Reading: Tech blogs and development best practices
+- 🎮 Enjoy solving coding challenges when I have time & Watching Anime
 - 🎵 Code better with: Lo-fi beats and focus music
 - 💭 Philosophy: "Learn by building, fail fast, iterate faster"
-- ☕ Fun fact: I debug better after a cup of chai!
+- ☕ Fun fact: I am not good at telling fun facts 😁.
 
 ---
 
@@ -99,9 +98,8 @@ graph LR
     style E fill:#a78bfa
 ```
 
-**Current Stage:** Building Projects 🎨  
-**Next Milestone:** NxtWave Full-Stack Program (Aug 2025)  
-**End Goal:** Full-Stack Developer Role (2026)
+**Current Stage:** Building Projects 🎨    
+**End Goal:** Full-Stack Developer  or DevOps Roles (2027)
 
 ---
 
@@ -109,7 +107,7 @@ graph LR
 
 - 💼 LinkedIn: [chandutelagamsetti](https://www.linkedin.com/in/chandutelagamsetti/)
 - 🐙 GitHub: [ChanduTelaga](https://github.com/ChanduTelaga)
-- 📧 Email: [Drop me a message!](mailto:your.email@example.com)
+- 📧 Email: [Drop me a message!](mailto:202217b3191@wilp.bits-pilani.ac.in)
 
 <div align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
